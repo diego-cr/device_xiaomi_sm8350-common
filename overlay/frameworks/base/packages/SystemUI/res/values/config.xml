@@ -35,4 +35,7 @@
       <item>@*android:string/status_bar_call_strength</item>
     </string-array>
 
+    <!-- Burn in protection -->
+    <bool name="config_statusBarBurnInProtection">true</bool>
+
 </resources>
