@@ -305,4 +305,7 @@
          manually by the user. Off by default, since the expected haptic feedback may not be
          available on some devices. -->
     <bool name="config_enableHapticTextHandle">true</bool>
+
+    <!-- Support long press power for torch -->
+    <bool name="config_supportLongPressPowerWhenNonInteractive">true</bool>
 </resources>
